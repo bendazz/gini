@@ -1,0 +1,3 @@
+// This file was moved from web/app.js
+
+// ...existing JS code...
